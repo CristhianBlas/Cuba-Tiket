@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798264991118",
+    "project_id": "cuba-ticket",
+    "storage_bucket": "cuba-ticket.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798264991118:android:375fd934b78446881518df",
+        "android_client_info": {
+          "package_name": "com.cubaticket.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl6W_NrTMLG85YEht5PEd7kvNfqafJwLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
